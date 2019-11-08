@@ -1,3 +1,23 @@
+# pageConfig
+```javascript
+    let pageConfig = {}
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
 # vcp
 
 ## Project setup
